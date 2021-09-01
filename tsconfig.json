@@ -1,5 +1,8 @@
 {
   "compilerOptions": {
-    "target": "esnext"
+    "target": "esnext",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true
   }
 }
