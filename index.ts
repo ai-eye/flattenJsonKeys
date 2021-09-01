@@ -1,6 +1,6 @@
 // Import stylesheets
 import './style.css';
-import { flattenme } from 'flatten-me';
+import { flattenme } from './flatten-me';
 // Write TypeScript code!
 const appDiv: HTMLElement = document.getElementById('app');
 appDiv.innerHTML = `<h1>TypeScript Starter</h1>`;
